@@ -85,12 +85,29 @@
 ## Sección 4: Principales
 
 ### 15. Intro a las amenazas
+Cuatro principales amenazas
+<br />
+El éxito de los ataques mediante técnicas de Ingeniería Social está basado en cuatro aspectos fundamentales:
 
 ### 16. Ingenieria Social
+1. Las debilidades humanas: Curiosidad, ambición, vanidad, ostentación... 
+2. La situación de necesidad que viven muchas personas.
+3. La exposición en el Medio Digital y la despreocupación que mostramos.
+4. El conocimiento y uso aventajado que tienen los cibercriminales.
 
 ### 17. Malware
+>- Cualquier programa que tiene una finalidad maliciosa tiene la clasificación de malware, y muchas veces se puede encontrar hasta en el software más inocente.
+Hablamos de malware en:
+>- Virus
+>- Troyanos
+>- Ransomware
+>- Rootkits
+>- Spyware
+>- Adware
 
 ### 18. Amenaza persistente avanzada
+>- Un factor externo o interno que realiza actividades avanzadas de ciber espionaje o sabotaje digital, generalmente son grupos de expertos digitales que operan bajo el paraguas de un gobierno, este tipo de amenazas se consideran de alto riesgo ya que el nivvel de estos individuos es demasiado elevado
+
 
 ### 19. Hacktivismo
 
